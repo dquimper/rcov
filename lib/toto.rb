@@ -1,7 +1,7 @@
 class Toto
 
   def self.tata
-    1
+    2
   end
 
 end
